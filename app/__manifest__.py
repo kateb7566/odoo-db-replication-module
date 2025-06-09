@@ -1,7 +1,7 @@
 # __manifest__.py
 
 {
-    "name": "Database Replication",
+    "name": "Kateb Database Replication",
     "version": "1.0.0",
     "summary": "Module to manage database replication within Odoo instances.",
     "description": """
